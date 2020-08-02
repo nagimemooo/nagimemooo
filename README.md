@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagi</h1>
-<h3 align="center">打雜IT工程師，正在學習Go & React。 是一名貓奴。</h3>
+<h3 align="center">打雜後端IT工程師，Go經歷一年 & 正在學習 React。 是一名貓奴。</h3>
 
 <p align="center">
 <a href="https://fb.com/nagimemooo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nagimemooo" height="20" width="20" /></a>
@@ -8,7 +8,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagimemooo" alt="nagimemooo" /> </p>
 
-#### 現狀:
+
 - 🌱 I’m currently learning **React,Golang,Python**
 
 - 📝 I regulary write articles on [https://nagimemooo.github.io/](https://nagimemooo.github.io/)
