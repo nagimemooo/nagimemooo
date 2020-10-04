@@ -21,7 +21,7 @@
 - 正在學習前端技能:React
 - 熟悉開發 REST API
 - Git / GitGlow 使用經驗
-- RDBMS SQL & NoSQL 資料庫操作 使用經驗
+- 資料庫 RDBMS SQL & NoSQL 操作與使用經驗
 - 會使用 docker & docker compose 啟動服務 ＆ 撰寫 dockerfile
 
 <p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
