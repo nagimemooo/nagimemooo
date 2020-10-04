@@ -19,8 +19,10 @@
 #### 學習技能:
 - 後端 golang 經歷一年
 - 正在學習前端技能:React
-- SQL & NoSQL 資料庫操作
-- 會使用 docker & docker compose 啟動服務
+- 熟悉開發 REST API
+- Git / GitGlow 使用經驗
+- RDBMS SQL & NoSQL 資料庫操作 使用經驗
+- 會使用 docker & docker compose 啟動服務 ＆ 撰寫 dockerfile
 
 <p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50 height="50"/><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </p>
